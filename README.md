@@ -1,7 +1,7 @@
-# forza-horizon-vfont
+# Forza Horizon .vfont
 Forza Horizon Series .vfont 
 
-This is Reverse Engineering for Forza Horizon Series Custom Fonts .vfont (.ttf convert to .vfont)
+This is Reverse Engineering for Forza Horizon Series Custom Fonts **.vfont** (**.ttf** convert to **.vfont**)
 
 ### How to use
 
