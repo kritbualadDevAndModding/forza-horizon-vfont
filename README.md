@@ -5,13 +5,13 @@ This is Reverse Engineering for Forza Horizon Series Custom Fonts **.vfont** (**
 
 ### How to use
 
-### Install **Python**
+### Install **[Python](https://www.python.org/downloads/)**
 
 command
 
 **pip install fonttools**
 
-**python ttf2vfont.py YourFont.ttf Anthem_A.vfont --template Anthem_A.vfont_original**
+**python ttf2vfont.py YourFont.ttf Anthem_A.vfont**
 
 Supported
 - Forza Horizon 2 ✅ 
