@@ -14,7 +14,7 @@ Install fonttools
 
 Convert .ttf to .vfont
 
-**`python ttf2vfont.py comic.ttf Anthem_A.vfont --template Anthem_A.vfont_original`**
+**`python ttf2vfont.py YourFonts.ttf Anthem_A.vfont --template Anthem_A.vfont_original`**
 
 
 The **`--template`** argument specifies the source **`.vfont`** file to be used as a template; the script will copy its header and utilize the same character set expected by the game. It is highly recommended to always include this.
