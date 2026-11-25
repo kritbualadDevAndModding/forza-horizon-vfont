@@ -15,7 +15,7 @@ Install fonttools
 Convert .ttf to .vfont
 
 ### Forza Horizon 2
-**`python FH2ttf2vfont.py YourFonts.ttf Anthem_A.vfont --template Anthem_A.vfont_original`**
+**`python FH2ttf2vfont.py YourFonts.ttf Anthem_A.vfont`**
 
 ### Forza Horizon 3
 **`python make_onebatch.py YourFonts.ttf Anthem_A_1.vfont Anthem_A.vfont --all`**
