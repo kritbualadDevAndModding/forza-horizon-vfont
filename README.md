@@ -29,7 +29,7 @@ You can also adjust the ascent and descent values ​​using the **`--ascent`**
 
 **Supported**
 - **Forza Horizon 2** ✅
-- Forza Horizon 3 (Wait for the next update)
+- **Forza Horizon 3** ✅
 - Forza Horizon 4 (Wait for the next update)
 - Forza Horizon 5 (Wait for the next update)
 - Forza Horizon 6 (Wait for the next update)
