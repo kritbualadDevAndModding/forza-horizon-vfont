@@ -32,8 +32,8 @@ You can also adjust the ascent and descent values ​​using the **`--ascent`**
 
 
 **Supported**
-- **Forza Horizon 2** ✅
-- **Forza Horizon 3** ✅
+- **Forza Horizon 2 (Azimuth Only)** ✅
+- **Forza Horizon 3 (Azimuth Only)** ✅
 - Forza Horizon 4 (Wait for the next update)
 - Forza Horizon 5 (Wait for the next update)
 - Forza Horizon 6 (Wait for the next update)
