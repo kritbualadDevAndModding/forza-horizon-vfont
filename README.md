@@ -14,7 +14,11 @@ Install fonttools
 
 Convert .ttf to .vfont
 
+### Forza Horizon 2
 **`python ttf2vfont.py YourFonts.ttf Anthem_A.vfont --template Anthem_A.vfont_original`**
+
+### Forza Horizon 3
+**`python make_onebatch.py YourFonts.ttf Anthem_A_1.vfont Anthem_A.vfont --all`**
 
 
 The **`--template`** argument specifies the source **`.vfont`** file to be used as a template; the script will copy its header and utilize the same character set expected by the game. It is highly recommended to always include this.
