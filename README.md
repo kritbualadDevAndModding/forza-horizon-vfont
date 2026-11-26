@@ -22,9 +22,18 @@ Convert .ttf to .vfont
 
 
 The **`--template`** argument specifies the source **`.vfont`** file to be used as a template; the script will copy its header and utilize the same character set expected by the game. It is highly recommended to always include this.
-
+___
 If omitted, the script will default to using Latin characters, punctuation, and currency symbols—or you can define a custom set using **`--chars`** or **`--all`**.
 
+### *Example*
+for **all**
+
+**`--all`** = to include all Unicode characters.
+
+or
+
+**`--chars "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,:;!?-/"`** = for using custom Unicode text as want
+___
 If **Your Fonts** appear wider or taller than the condensed "Anthem" font, try using **`--scale 0.85`**.
 
 You can also adjust the ascent and descent values ​​using the **`--ascent`** and **`--descent`** arguments.
