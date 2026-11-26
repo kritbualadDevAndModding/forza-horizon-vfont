@@ -29,7 +29,19 @@ If **Your Fonts** appear wider or taller than the condensed "Anthem" font, try u
 
 You can also adjust the ascent and descent values ​​using the **`--ascent`** and **`--descent`** arguments.
 
+Asset Font Forza Horizon Series
 
+### Forza Horizon 2/3 vfont
+- Anthem_A = Black Condensed
+- Anthem_B = ... 
+- Anthem_C = ... 
+- Anthem_D = ... 
+
+### Forza Horizon 4/5/6 vfont
+- Horizon_A = Black Condensed
+- Horizon_B = ... 
+- Horizon_C = ... 
+- Horizon_D = ... 
 
 **Supported**
 - **Forza Horizon 2 (Azimuth Only)** ✅
