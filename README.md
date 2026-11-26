@@ -62,6 +62,3 @@ ___
 - **Forza Horizon 4 (Steam Only)** ✅
 - **Forza Horizon 5** ✅
 - Forza Horizon 6 (Wait for the next update)
-___
-### Credits
-- Claude : A professional in reverse engineering
