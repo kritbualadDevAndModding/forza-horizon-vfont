@@ -1,7 +1,7 @@
 # Forza Horizon / Motorsport Series Custom Fonts .ttf to .vfont 
 
 This is Reverse Engineering for Forza Horizon / Motorsport Series Custom Fonts **.vfont** (**.ttf** convert to **.vfont**)
-
+___
 ### How to use
 
 ### Install **[Python](https://www.python.org/downloads/)**
@@ -13,13 +13,13 @@ Install fonttools
 **`pip install fonttools`**
 
 Convert .ttf to .vfont
-
+___
 ### Forza Horizon 2
 **`python FH2ttf2vfont.py YourFonts.ttf YourFonts.vfont`**
-
+___
 ### Forza Horizon 3
 **`python make_onebatch.py YourFonts.ttf Anthem_A.vfont YourFonts.vfont --all`**
-
+___
 
 The **`--template`** argument specifies the source **`.vfont`** file to be used as a template; the script will copy its header and utilize the same character set expected by the game. It is highly recommended to always include this.
 ___
@@ -39,19 +39,19 @@ If **Your Fonts** appear wider or taller than the condensed "Anthem" font, try u
 You can also adjust the ascent and descent values ​​using the **`--ascent`** and **`--descent`** arguments.
 
 Asset Font Forza Horizon Series
-
+___
 ### Forza Horizon 2/3 vfont
 - Anthem_A = Black Condensed
 - Anthem_B = ... 
 - Anthem_C = ... 
 - Anthem_D = ... 
-
+___
 ### Forza Horizon 4/5/6 vfont
 - Horizon_A = Black Condensed
 - Horizon_B = ... 
 - Horizon_C = ... 
 - Horizon_D = ... 
-
+___
 **Supported**
 - Forza Motorsport 5 (Wait for the next update)
 - Forza Motorsport 6 (Wait for the next update)
