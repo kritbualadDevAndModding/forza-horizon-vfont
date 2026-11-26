@@ -1,4 +1,4 @@
-# Forza Horizon Series Custom Fonts .ttf to .vfont 
+# Forza Horizon / Motorsport Series Custom Fonts .ttf to .vfont 
 
 This is Reverse Engineering for Forza Horizon Series Custom Fonts **.vfont** (**.ttf** convert to **.vfont**)
 
@@ -44,6 +44,8 @@ Asset Font Forza Horizon Series
 - Horizon_D = ... 
 
 **Supported**
+- Forza Motorsport 5 (Wait for the next update)
+- Forza Motorsport 6 (Wait for the next update)
 - **Forza Horizon 2 (Azimuth Only)** ✅
 - **Forza Horizon 3 (Azimuth Only)** ✅
 - Forza Horizon 4 (Wait for the next update)
