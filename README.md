@@ -20,7 +20,9 @@ ___
 ### Forza Horizon 3
 **`python make_onebatch.py YourFonts.ttf Anthem_A.vfont YourFonts.vfont --all`**
 ___
-
+### Forza Horizon 4 / 5
+**`python FH4FH5ttf2vfont.py YourFonts.ttf YourFonts.vfont --template Horizon_A.vfont --name Horizon_A --all`**
+___
 The **`--template`** argument specifies the source **`.vfont`** file to be used as a template; the script will copy its header and utilize the same character set expected by the game. It is highly recommended to always include this.
 ___
 If omitted, the script will default to using Latin characters, punctuation, and currency symbols—or you can define a custom set using **`--chars`** or **`--all`**.
@@ -57,6 +59,6 @@ ___
 - Forza Motorsport 6 (Wait for the next update)
 - **Forza Horizon 2 (Azimuth Only)** ✅
 - **Forza Horizon 3 (Azimuth Only)** ✅
-- Forza Horizon 4 (Wait for the next update)
-- Forza Horizon 5 (Wait for the next update)
+- **Forza Horizon 4 (Steam Only)** ✅
+- **Forza Horizon 5** ✅
 - Forza Horizon 6 (Wait for the next update)
