@@ -1,6 +1,6 @@
 # Forza Horizon / Motorsport Series Custom Fonts .ttf to .vfont 
 
-This is Reverse Engineering for Forza Horizon / Motorsport Series Custom Fonts **.vfont** (**.ttf** convert to **.vfont**) for Xbox One Generation Only. 
+This is Reverse Engineering for Forza Horizon / Motorsport Series Custom Fonts **.vfont** (**.ttf** convert to **.vfont**)
 
 ### How to use
 
