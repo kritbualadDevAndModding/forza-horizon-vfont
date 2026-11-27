@@ -55,8 +55,8 @@ ___
 - Horizon_D = ... 
 ___
 **Supported**
-- Forza Motorsport 5 (Wait for the next update)
-- Forza Motorsport 6 (Wait for the next update)
+- **Forza Motorsport 5 (Azimuth Only)** ✅ **(Use FH2)**
+- **Forza Motorsport 6 (Azimuth Only)**  ❌ **(The zip file is encrypted.)**
 - **Forza Horizon 2 (Azimuth Only)** ✅
 - **Forza Horizon 3 (Azimuth Only)** ✅
 - **Forza Horizon 4 (Steam Only)** ✅
