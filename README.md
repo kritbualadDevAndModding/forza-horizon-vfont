@@ -42,17 +42,23 @@ You can also adjust the ascent and descent values ​​using the **`--ascent`**
 
 Asset Font Forza Horizon Series
 ___
-### Forza Horizon 2/3 vfont
-- Anthem_A = Black Condensed
-- Anthem_B = ... 
-- Anthem_C = ... 
-- Anthem_D = ... 
+### Forza Horizon 2 vfont
+- Anthem_A = Black / Bold Condensed
+- Anthem_B = Regular Condensed
+- Anthem_C = Light Condensed
+- Anthem_D = Regular Normal
+___
+### Forza Horizon 3 vfont
+- Anthem_A = Black / Bold Condensed
+- Anthem_B = Light Condensed
+- Anthem_C = Black / Bold Normal
+- Anthem_D = Regular Normal
 ___
 ### Forza Horizon 4/5/6 vfont
-- Horizon_A = Black Condensed
-- Horizon_B = ... 
-- Horizon_C = ... 
-- Horizon_D = ... 
+- Horizon_A = Black / Bold Condensed
+- Horizon_B = Light Condensed
+- Horizon_C = Black / Bold Normal
+- Horizon_D = Regular Normal
 ___
 **Supported**
 - **Forza Motorsport 5 (Azimuth Only)** ✅ **(Use FH2)**
